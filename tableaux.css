@@ -2,10 +2,34 @@ table,
 th,
 td {
     border: 1px solid black;
-    padding: 5px;
+    padding: 15px;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+
+
+}
+th {
+   color:#ff0000;
+   font-family: 'Press Start 2P', cursive;
+
 }
 
+
+
+
+
 table {
-    background-color: #00D400;
+    background-color: rgb(13, 187, 42);
     border-collapse: collapse;
+    font-family: 'Press Start 2P', cursive;
+
+}
+
+h2 {
+    font-family: 'Press Start 2P', cursive;
+}
+
+
+h3 {
+    font-family: 'Press Start 2P', cursive;
 }
